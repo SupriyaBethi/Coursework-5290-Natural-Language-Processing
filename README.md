@@ -1,2 +1,0 @@
-# ICE1
-NLP Lab
